@@ -1,0 +1,9 @@
+.text-center{
+    text-align: center;
+    color: brown;
+}
+div{
+    width: 400px;
+    height: 400px;
+    background-color: #454545;
+}
